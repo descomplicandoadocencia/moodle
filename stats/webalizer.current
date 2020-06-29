@@ -1,0 +1,646 @@
+# Webalizer V2.23-08 Incremental Data - 06/10/2020 12:32:17
+2020 6 10 12 32 17
+1074 1039 6 216 29 9 20622189 960 31 0 0 0
+2 23 518 3 10
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+521 503 5029806 1 498 3 0 0
+468 454 8838024 1 412 17 0 0
+16 16 9073 1 16 4 0 0
+1 0 404 1 0 0 0 0
+0 0 0 0 0 0 0 0
+2 2 41449 1 1 1 0 0
+16 14 857017 2 9 1 0 0
+50 50 5846416 2 24 5 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+2 2 41449 1 0 0
+47 47 4140253 26 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+23 23 2365807 11 0 0
+15 15 8438 15 0 0
+1 1 635 1 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+186 179 2401006 172 0 0
+244 237 5766593 209 0 0
+2 2 778 2 0 0
+3 0 1217 2 0 0
+15 15 9368 15 0 0
+520 504 5029628 497 0 0
+16 14 857017 9 0 0
+0
+0
+0
+1039
+0
+0
+0
+0
+0
+0
+0
+0
+1
+27
+0
+0
+0
+0
+0
+0
+2
+5
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+# -urls- 
+/my/
+0 3 0 68024 0 0 0 0
+/admin/search.php
+0 19 0 454018 0 0 0 0
+/lib/javascript.php/1591293994/lib/mdn-polyfills/polyfill.js
+0 5 0 28402 0 0 0 0
+/draftfile.php/5/user/draft/304058788/logo.png
+1 1 0 6739 0 0 0 0
+/theme/image.php
+0 13 0 1283003 0 1 0 0
+/theme/image.php/boost/core/1591293034/i/colourpicker
+0 1 0 1646 0 0 0 0
+/draftfile.php/5/user/draft/301692804/favicon.ico
+0 1 0 8698 0 0 0 0
+/theme/image.php/boost/theme/1591293034/favicon
+0 1 0 1631 0 0 0 0
+/lib/javascript.php/1591223782/lib/form/dndupload.js
+0 1 0 4462 0 0 0 0
+/theme/image.php/boost/theme/1591293994/fp/path_folder
+0 1 0 748 0 0 0 0
+/theme/image.php/boost/theme/1591294188/fp/dnd_arrow
+0 1 0 84265 0 0 0 0
+/lib/upgrade.txt
+0 1 0 32135 0 0 0 0
+/theme/image.php/moove/repository_upload/1591294188/icon
+0 1 0 2186 0 0 0 0
+/theme/image.php/boost/core/1591293034/s/cool
+0 1 0 1213 0 0 0 0
+/repository/draftfiles_ajax.php
+0 110 0 81904 7 10 0 0
+/theme/image.php/moove/theme/1591295360/headerimg
+0 3 0 3252795 2 0 0 0
+/theme/font.php
+0 1 0 77640 0 0 0 0
+/theme/image.php/moove/theme/1591295360/fp/path_folder
+0 1 0 748 0 0 0 0
+/lib/javascript.php/1591223782/lib/form/filepicker.js
+0 1 0 1170 0 0 0 0
+/theme/image.php/boost/core/1591293994/i/warning
+0 1 0 935 0 0 0 0
+/theme/image.php/boost/core/1591293034/s/heart
+0 1 0 1026 0 0 0 0
+/theme/image.php/boost/core/1591294188/i/loading
+0 1 0 7181 0 0 0 0
+/theme/image.php/boost/core/1591293034/s/tongueout
+0 1 0 1312 0 0 0 0
+/theme/image.php/moove/theme/1591294188/icon_default
+0 1 0 1568 0 0 0 0
+/admin/settings.php
+0 16 0 389568 0 0 0 0
+/theme/image.php/moove/core/1591295360/u/f2
+0 1 0 799 0 0 0 0
+/theme/image.php/moove/theme/1591294188/fp/dnd_arrow
+0 1 0 84265 0 0 0 0
+/theme/image.php/boost/core/1591293034/s/approve
+0 1 0 1164 0 0 0 0
+/theme/image.php/moove/theme/1591294188/headerimg
+0 1 0 1084265 1 0 0 0
+/lib/javascript.php/1591293993/lib/mdn-polyfills/polyfill.js
+0 1 0 5681 0 0 0 0
+/theme/image.php/boost/core/1591293994/i/colourpicker
+0 1 0 1646 0 0 0 0
+/install.php
+0 12 0 33388 0 0 0 0
+/theme/image.php/boost/core/1591293034/s/smiley
+0 1 0 1173 0 0 0 0
+/theme/image.php/boost/repository_local/1591293204/icon
+0 1 0 2262 0 0 0 0
+/lib/javascript.php/1591293994/repository/filepicker.js
+0 1 0 12374 0 0 0 0
+/theme/image.php/boost/theme/1591294188/favicon
+0 1 0 1631 0 0 0 0
+/theme/image.php/moove/repository_user/1591294188/icon
+0 1 0 1172 0 0 0 0
+/theme/image.php/boost/theme/1591293994/fp/dnd_arrow
+0 1 0 84265 0 0 0 0
+/theme/image.php/moove/atto_h5p/1591294188/icon
+0 1 0 1252 0 0 0 0
+/theme/image.php/boost/repository_upload/1591223782/icon
+0 1 0 2187 1 0 0 0
+/theme/image.php/boost/core/1591293034/s/blackeye
+0 1 0 1142 0 0 0 0
+/theme/image.php/boost/theme/1591293204/favicon
+0 1 0 1631 0 0 0 0
+/draftfile.php/5/user/draft/519101735/favicon.ico
+0 1 0 8698 0 0 0 0
+/theme/image.php/moove/repository_recent/1591294188/icon
+0 1 0 2261 0 0 0 0
+/lib/yuilib/3.17.2/event-touch/event-touch-min.js
+0 1 0 1082 0 0 0 0
+/theme/image.php/boost/repository_wikimedia/1591223782/icon
+0 1 0 1415 0 1 0 0
+/lib/h5p/js/h5p-resizer.js
+0 1 0 1593 0 0 0 0
+/theme/image.php/moove/repository_wikimedia/1591294188/icon
+0 1 0 1414 0 0 0 0
+/theme/image.php/boost/core/1591293034/i/loading
+0 1 0 7181 0 0 0 0
+/theme/image.php/boost/theme/1591223782/fp/path_folder
+0 1 0 748 0 0 0 0
+/theme/image.php/boost/core/1591293034/s/kiss
+0 1 0 1605 0 0 0 0
+/theme/image.php/boost/core/1591223782/f/png-80
+0 1 0 7124 0 0 0 0
+/draftfile.php/5/user/draft/48208843/logomarca.png
+1 1 0 3560 0 0 0 0
+/repository/repository_ajax.php
+0 15 0 8697 0 0 0 0
+/lib/javascript.php/1591293994/lib/babel-polyfill/polyfill.min.js
+0 5 0 167056 0 0 0 0
+/theme/font.php/boost/core/1591293204/fontawesome-webfont.woff2
+0 1 0 77640 0 0 0 0
+/theme/font.php/boost/core/1591293994/fontawesome-webfont.woff2
+0 1 0 77640 0 0 0 0
+/theme/font.php/boost/core/1591294188/fontawesome-webfont.woff2
+0 1 0 77640 0 0 0 0
+/theme/image.php/boost/block_recentlyaccessedcourses/1591223782/courses
+0 1 0 1306 0 0 0 0
+/theme/image.php/boost/core/1591293034/s/mixed
+0 1 0 1278 0 0 0 0
+/theme/image.php/boost/repository_user/1591223782/icon
+0 1 0 1173 0 1 0 0
+/theme/image.php/boost/core/1591294188/u/f2
+0 1 0 799 0 0 0 0
+/lib/yuilib/3.17.2/event-valuechange/event-valuechange-min.js
+0 1 0 1765 0 0 0 0
+/theme/font.php/boost/core/1591223782/fontawesome-webfont.woff2
+0 2 0 155280 0 0 0 0
+/pluginfile.php/1/core_admin/logocompact/100x100/1591293204/logo.png
+1 1 0 8184 0 0 0 0
+/lib/javascript.php/1591293993/lib/javascript-static.js
+0 1 0 7327 0 0 0 0
+/lib/javascript.php/1591223782/lib/form/form.js
+0 1 0 3080 0 0 0 0
+/draftfile.php/5/user/draft/233022221/logomarca.png
+1 1 0 3560 0 0 0 0
+/theme/image.php/moove/core/1591295360/i/loading
+0 1 0 7181 0 1 0 0
+/lib/javascript.php/1591293994/lib/jquery/jquery-3.4.1.min.js
+0 6 0 187380 0 0 0 0
+/theme/image.php/boost/core/1591293994/i/loading
+0 1 0 7181 0 0 0 0
+/theme/image.php/boost/atto_h5p/1591294188/icon
+0 1 0 1252 0 0 0 0
+/lib/requirejs.php/1591293994/core/first.js
+0 7 0 1872927 0 0 0 0
+/lib/yuilib/3.17.2/event-tap/event-tap-min.js
+0 1 0 1335 0 0 0 0
+/theme/image.php/moove/theme/1591295360/footer-bg
+0 3 0 393052 0 1 0 0
+/theme/image.php/boost/theme/1591294188/fp/path_folder
+0 1 0 748 0 0 0 0
+/admin/
+0 13 0 110904 0 0 0 0
+/theme/image.php/boost/theme/1591223782/fp/dnd_arrow
+0 1 0 84266 0 0 0 0
+/theme/styles.php
+0 1 0 115143 0 0 0 0
+/theme/image.php/boost/core/1591293034/f/png-80
+0 1 0 7124 0 0 0 0
+/theme/image.php/boost/theme/1591293034/fp/path_folder
+0 1 0 748 0 0 0 0
+/lib/requirejs.php
+0 272 0 543834 0 0 0 0
+/theme/image.php/boost/core/1591223782/u/f2
+0 1 0 799 0 0 0 0
+/theme/image.php/boost/core/1591294188/i/colourpicker
+0 1 0 1646 0 0 0 0
+/theme/image.php/boost/core/1591293034/s/sad
+0 1 0 1232 0 0 0 0
+/lib/yuilib/3.17.2/event-move/event-move-min.js
+0 1 0 1956 0 0 0 0
+/theme/image.php/moove/atto_h5p/1591295360/icon
+0 1 0 1252 0 0 0 0
+/admin/tool/installaddon/
+0 2 0 50246 0 0 0 0
+/theme/image.php/boost/core/1591293034/s/biggrin
+0 1 0 1230 0 0 0 0
+/theme/image.php/moove/theme/1591295360/icon_default
+0 2 0 3135 1 0 0 0
+/install/css.php
+0 12 0 1054498 0 0 0 0
+/theme/image.php/boost/block_timeline/1591223782/activities
+0 1 0 1173 0 0 0 0
+/admin/roles/manage.php
+0 1 0 18170 0 0 0 0
+/lib/yuilib/3.17.2/event-hover/event-hover-min.js
+0 1 0 791 0 0 0 0
+/lib/javascript.php/1591293993/lib/babel-polyfill/polyfill.min.js
+0 1 0 33412 0 0 0 0
+/lib/editor/atto/autosave-ajax.php
+0 21 0 8137 1 0 0 0
+/theme/image.php/moove/theme/1591294188/favicon
+0 1 0 1631 0 0 0 0
+/lib/javascript.php/1591223782/user/selector/module.js
+0 1 0 2734 0 0 0 0
+/pluginfile.php/1/core_admin/logo/0x200/1591294188/logomarca.png
+1 2 0 174178 0 0 0 0
+/theme/image.php/moove/core/1591294188/i/loading
+0 1 0 7181 0 0 0 0
+/draftfile.php/5/user/draft/179751563/logo.png
+1 1 0 6739 0 0 0 0
+/theme/image.php/boost/repository_upload/1591293994/icon
+0 1 0 2187 0 0 0 0
+/theme/image.php/boost/core/1591223782/i/info
+0 1 0 944 0 0 0 0
+/theme/yui_combo.php
+0 70 0 1343952 0 0 0 0
+/theme/image.php/boost/repository_wikimedia/1591293994/icon
+0 1 0 1415 0 0 0 0
+/theme/image.php/boost/repository_recent/1591293204/icon
+0 1 0 2262 0 0 0 0
+/theme/image.php/boost/core/1591293034/s/wideeyes
+0 1 0 1314 0 0 0 0
+/lib/yuilib/3.17.2/event-resize/event-resize-min.js
+0 1 0 713 0 0 0 0
+/theme/image.php/boost/atto_h5p/1591293994/icon
+0 1 0 1252 0 0 0 0
+/draftfile.php/5/user/draft/632916839/logo.png
+1 1 0 6739 0 0 0 0
+/lib/javascript.php/1591223782/lib/mdn-polyfills/polyfill.js
+0 2 0 11362 0 0 0 0
+/theme/image.php/moove/core/1591294188/f/image-80
+0 1 0 8759 0 0 0 0
+/draftfile.php/5/user/draft/298069988/logomarca.png
+1 1 0 3560 0 0 0 0
+/pluginfile.php/1/theme_moove/favicon/1591295360/favicon.ico
+0 4 0 10621 0 0 0 0
+/theme/image.php/moove/theme/1591294188/footer-bg
+0 2 0 262035 0 0 0 0
+/theme/styles.php/boost/1591293993_1/all
+0 1 0 114295 0 0 0 0
+/theme/image.php/boost/core/1591293034/s/wink
+0 1 0 1238 0 0 0 0
+/theme/image.php/boost/core/1591293034/u/f2
+0 1 0 799 0 1 0 0
+/draftfile.php/5/user/draft/659696850/logo.png
+1 1 0 6739 0 0 0 0
+/theme/image.php/boost/repository_local/1591223782/icon
+0 1 0 2262 0 0 0 0
+/theme/image.php/boost/core/1591223782/i/colourpicker
+0 1 0 1646 0 0 0 0
+/admin/upgradesettings.php
+0 2 0 51359 0 0 0 0
+/theme/image.php/boost/theme/1591293994/favicon
+0 1 0 1631 0 0 0 0
+/theme/font.php/moove/core/1591295360/fontawesome-webfont.woff2
+0 3 0 232920 0 0 0 0
+/theme/image.php/boost/core/1591293994/i/info
+0 1 0 943 0 0 0 0
+/theme/styles.php/moove/1591294188_1/all
+0 2 0 266363 1 0 0 0
+/theme/styles.php/boost/1591294188_1/all
+0 2 0 229302 0 0 0 0
+/theme/image.php/boost/core/1591223782/i/loading
+0 1 0 7181 0 0 0 0
+/theme/image.php/moove/core/1591294188/i/warning
+0 1 0 935 0 0 0 0
+/lib/javascript.php/1591223782/lib/babel-polyfill/polyfill.min.js
+0 2 0 66824 0 0 0 0
+/theme/image.php/boost/repository_user/1591293204/icon
+0 1 0 1173 0 0 0 0
+/draftfile.php/5/user/draft/955724371/logomarca.png
+1 1 0 3560 0 0 0 0
+/theme/image.php/boost/core/1591223782/spacer
+0 1 0 506 0 0 0 0
+/theme/image.php/boost/core/1591293034/s/evil
+0 1 0 1341 0 0 0 0
+/theme/image.php/boost/core/1591294188/i/info
+0 1 0 944 0 0 0 0
+/theme/image.php/boost/repository_user/1591293994/icon
+0 1 0 1173 0 0 0 0
+/theme/image.php/boost/core/1591293034/s/angry
+0 1 0 1154 0 0 0 0
+/theme/image.php/moove/core/1591294188/i/colourpicker
+0 1 0 1646 0 0 0 0
+/lib/javascript.php/1591223782/lib/javascript-static.js
+0 2 0 14654 0 0 0 0
+/theme/image.php/moove/core/1591295360/i/info
+0 1 0 943 0 0 0 0
+/theme/image.php/boost/repository_upload/1591293204/icon
+0 1 0 2187 0 0 0 0
+/theme/styles.php/boost/1591293204_1/all
+0 2 0 229296 1 0 0 0
+/theme/moove/pix/moodle-logo-white.png
+1 4 0 342010 0 0 0 0
+/lib/yuilib/3.17.2/event-mousewheel/event-mousewheel-min.js
+0 1 0 714 0 0 0 0
+/theme/image.php/boost/atto_h5p/1591223782/icon
+0 1 0 1252 0 0 0 0
+/lib/javascript.php/1591223782/lib/requirejs/require.min.js
+0 2 0 14423 0 0 0 0
+/theme/image.php/boost/core/1591293034/s/martin
+0 1 0 1626 0 0 0 0
+/theme/image.php/boost/core/1591293204/i/reload
+0 1 0 941 0 0 0 0
+/theme/image.php/boost/core/1591293204/t/expanded
+0 1 0 851 0 0 0 0
+/theme/image.php/boost/core/1591223782/i/warning
+0 1 0 935 0 0 0 0
+/lib/javascript.php/1591223782/repository/filepicker.js
+0 1 0 12374 0 0 0 0
+/theme/image.php/boost/repository_url/1591223782/icon
+0 1 0 2187 0 0 0 0
+/theme/image.php/boost/repository_wikimedia/1591293204/icon
+0 1 0 1415 0 0 0 0
+/theme/image.php/boost/core/1591293034/s/yes
+0 1 0 2265 0 0 0 0
+/theme/styles.php/moove/1591295360_1/all
+0 4 0 532726 1 0 0 0
+/theme/image.php/boost/core/1591293034/s/clown
+0 1 0 1385 0 0 0 0
+/user/editadvanced.php
+0 5 0 183470 0 0 0 0
+/
+0 8 0 72471 5 0 0 0
+/theme/image.php/boost/block_myoverview/1591223782/courses
+0 1 0 1306 0 0 0 0
+/theme/image.php/boost/core/1591223782/t/collapsed
+0 1 0 855 0 0 0 0
+/theme/image.php/moove/theme/1591294188/fp/path_folder
+0 1 0 748 0 0 0 0
+/theme/image.php/boost/core/1591223782/t/expanded
+0 1 0 851 0 0 0 0
+/admin/roles/admins.php
+0 3 0 52798 0 0 0 0
+/lib/javascript.php/1591293994/lib/javascript-static.js
+0 5 0 36632 0 0 0 0
+/theme/image.php/moove/core/1591295360/f/image-80
+0 1 0 8759 0 0 0 0
+/lib/yuilib/3.17.2/event-flick/event-flick-min.js
+0 1 0 1368 0 0 0 0
+/theme/image.php/boost/core/1591293034/s/surprise
+0 1 0 1251 0 0 0 0
+/theme/image.php/moove/core/1591294188/u/f2
+0 1 0 799 0 1 0 0
+/theme/font.php/moove/theme/1591295360/Simple-Line-Icons.woff2
+0 3 0 91626 0 0 0 0
+/theme/image.php/boost/repository_local/1591293994/icon
+0 1 0 2262 0 0 0 0
+/lib/requirejs.php/1591293994/
+0 1 0 267562 0 0 0 0
+/theme/image.php/boost/core/1591293034/s/blush
+0 1 0 1314 0 0 0 0
+/theme/image.php/boost/core/1591293034/s/egg
+0 1 0 1175 0 0 0 0
+/theme/font.php/moove/theme/1591294188/Simple-Line-Icons.woff2
+0 2 0 61084 0 0 0 0
+/theme/image.php/moove/core/1591295360/i/colourpicker
+0 1 0 1647 0 0 0 0
+/pix/moodlelogo.png
+1 1 0 17572 0 0 0 0
+/admin/category.php
+0 4 0 111402 0 0 0 0
+/theme/image.php/moove/theme/1591295360/fp/dnd_arrow
+0 1 0 84265 0 0 0 0
+/theme/image.php/boost/core/1591293034/s/shy
+0 1 0 1250 0 0 0 0
+/theme/image.php/boost/repository_recent/1591223782/icon
+0 1 0 2262 1 0 0 0
+/lib/javascript.php/1591293994/lib/form/filemanager.js
+0 1 0 6974 0 0 0 0
+/admin/registration/
+0 2 0 56121 0 0 0 0
+/theme/image.php/boost/repository_recent/1591293994/icon
+0 1 0 2262 0 0 0 0
+/theme/image.php/boost/theme/1591293204/fp/dnd_arrow
+0 1 0 84265 0 0 0 0
+/lib/javascript.php
+0 43 0 1001132 1 1 0 0
+/theme/image.php/moove/repository_local/1591294188/icon
+0 1 0 2261 0 0 0 0
+/pluginfile.php/1/core_admin/logo/0x200/1591295360/logomarca.png
+1 3 0 261266 0 0 0 0
+/theme/
+0 8 0 137845 0 0 0 0
+/theme/font.php/moove/core/1591294188/fontawesome-webfont.woff2
+0 2 0 155282 0 0 0 0
+/pluginfile.php/1/core_admin/logocompact/100x100/1591293034/logo.png
+1 1 0 8184 0 0 0 0
+/lib/javascript.php/1591223782/lib/form/filemanager.js
+0 1 0 6975 0 0 0 0
+/theme/image.php/boost/theme/1591223782/favicon
+0 2 0 3262 0 0 0 0
+/lib/ajax/setuserpref.php
+0 6 0 2243 0 1 0 0
+/theme/image.php/boost/core/1591294188/i/warning
+0 1 0 935 0 0 0 0
+/lib/javascript.php/1591293994/lib/form/dndupload.js
+0 1 0 4462 0 0 0 0
+/theme/font.php/boost/core/1591293034/fontawesome-webfont.woff2
+0 1 0 77640 0 0 0 0
+/lib/javascript.php/1591293994/lib/requirejs/require.min.js
+0 5 0 36058 0 0 0 0
+/theme/image.php/boost/core/1591293034/s/sleepy
+0 1 0 1369 0 0 0 0
+/theme/image.php/boost/core/1591293204/u/f2
+0 1 0 799 0 0 0 0
+/theme/image.php/boost/core/1591293034/s/thoughtful
+0 1 0 1371 0 0 0 0
+/theme/image.php/boost/core/1591293034/s/dead
+0 1 0 1319 0 0 0 0
+/admin/user.php
+0 1 0 27445 0 0 0 0
+/theme/image.php/boost/core/1591223782/moodlelogo_grayhat
+0 1 0 1846 0 0 0 0
+/theme/image.php/moove/core/1591295360/i/warning
+0 1 0 935 0 0 0 0
+/lib/javascript.php/1591223782/lib/jquery/jquery-3.4.1.min.js
+0 2 0 62460 0 0 0 0
+/login/
+0 2 0 16086 0 0 0 0
+/theme/image.php/boost/core/1591293034/s/no
+0 1 0 2939 0 0 0 0
+/theme/image.php/boost/theme/1591293204/fp/path_folder
+0 1 0 748 0 0 0 0
+/lib/ajax/service.php
+0 103 0 152366 5 6 0 0
+/lib/requirejs.php/1591223782/core/first.js
+0 2 0 530592 0 0 0 0
+/lib/ajax/service-nologin.php
+0 20 0 92077 0 0 0 0
+/theme/styles.php/boost/1591293034_1/all
+0 2 0 229300 1 0 0 0
+/theme/image.php/moove/core/1591294188/i/info
+0 1 0 944 0 0 0 0
+/theme/styles.php/boost/1591293994_1/all
+0 1 0 114993 0 0 0 0
+/pluginfile.php/1/core_admin/logocompact/100x100/1591294188/logo.png
+1 1 0 8184 0 0 0 0
+/theme/styles.php/boost/1591223782_1/all
+0 2 0 229982 0 0 0 0
+# End Of Table - urls
+# -sites- (monthly)
+34.244.198.45
+0 2 2 41449 1 1591574430 0 0
+/
+189.15.70.186
+0 23 23 2365807 1 1591792337 0 0
+/lib/ajax/service.php
+66.249.72.20
+0 13 11 810714 1 1591745004 0 0
+-
+168.228.37.127
+0 1005 973 13876903 24 1591367384 0 0
+/lib/ajax/service.php
+66.249.72.22
+0 4 3 46707 0 0 0 0
+-
+191.217.168.207
+0 27 27 3480609 4 1591754376 0 0
+/theme/image.php/moove/theme/1591295360/headerimg
+# End Of Table - sites (monthly)
+# -sites- (daily)
+189.15.70.186
+0 23 23 2365807 1 1591792337 0 0
+/lib/ajax/service.php
+191.217.168.207
+0 27 27 3480609 4 1591754376 0 0
+/theme/image.php/moove/theme/1591295360/headerimg
+# End Of Table - sites (daily)
+# -referrers- 
+http://ead.descomplicandoadocencia.com.br/admin/roles/admins.php
+0 12
+http://descomplicandoadocencia.com.br/pt-br
+0 1
+http://ead.descomplicandoadocencia.com.br/theme/index.php
+0 38
+http://ead.descomplicandoadocencia.com.br/admin/roles/manage.php
+0 3
+http://ead.descomplicandoadocencia.com.br/theme/styles.php
+0 1
+http://descomplicandoadocencia.com.br/node/blog
+0 1
+http://ead.descomplicandoadocencia.com.br/admin/category.php
+0 51
+http://ead.descomplicandoadocencia.com.br/admin/index.php
+0 368
+http://ead.descomplicandoadocencia.com.br/login/index.php
+0 5
+- (Direct Request)
+0 22
+http://ead.descomplicandoadocencia.com.br/theme/styles.php/boost/1591223782_1/all
+0 6
+http://ead.descomplicandoadocencia.com.br/theme/styles.php/moove/1591295360_1/all
+0 14
+http://ead.descomplicandoadocencia.com.br/admin/registration/index.php
+0 5
+http://ead.descomplicandoadocencia.com.br/theme/styles.php/boost/1591293994_1/all
+0 3
+http://ead.descomplicandoadocencia.com.br/install.php
+0 26
+http://ead.descomplicandoadocencia.com.br/theme/styles.php/boost/1591294188_1/all
+0 3
+http://ead.descomplicandoadocencia.com.br/admin/user.php
+0 5
+http://ead.descomplicandoadocencia.com.br/admin/settings.php
+0 192
+http://ead.descomplicandoadocencia.com.br/admin/tool/installaddon/index.php
+0 18
+http://ead.descomplicandoadocencia.com.br/
+0 80
+http://ead.descomplicandoadocencia.com.br/my/
+0 34
+http://ead.descomplicandoadocencia.com.br/admin/upgradesettings.php
+0 68
+http://ead.descomplicandoadocencia.com.br/theme/styles.php/moove/1591294188_1/all
+0 9
+http://ead.descomplicandoadocencia.com.br/admin/search.php
+0 42
+http://descomplicandoadocencia.com.br/blog
+0 2
+http://ead.descomplicandoadocencia.com.br/theme/styles.php/boost/1591293204_1/all
+0 4
+http://ead.descomplicandoadocencia.com.br/theme/styles.php/boost/1591293034_1/all
+0 2
+http://descomplicandoadocencia.com.br/pt-br/sobre
+0 2
+http://ead.descomplicandoadocencia.com.br/user/editadvanced.php
+0 57
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 Edg/83.0.4
+0 23
+Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.92 Mobile S
+0 3
+Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:77.0) Gecko/20100101 Firefox/77.0
+0 27
+Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+0 2
+Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.93 Mobile S
+0 12
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.61 Safari/537.36
+0 521
+python-requests/2.22.0
+0 2
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36
+0 464
+Mozilla/5.0 (Linux; Android 8.1.0; Moto G (5) Plus) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.96 Mobile Safari/
+0 20
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames
